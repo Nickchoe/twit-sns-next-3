@@ -9,8 +9,8 @@
     "lint": "next lint"
   },
   "engines": {
-    "npm": "9.5.1",
-    "node": "18.16.0"
+    "npm": "8.3.1",
+    "node": "17.4.0"
   },
   "dependencies": {
     "@next-auth/prisma-adapter": "^1.0.5",
