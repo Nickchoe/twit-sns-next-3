@@ -10,7 +10,7 @@
   },
   "engines": {
     "npm": "8.3.1",
-    "node": "17.4.0"
+    "node": "18.x"
   },
   "dependencies": {
     "@next-auth/prisma-adapter": "^1.0.5",
